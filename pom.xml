@@ -58,7 +58,7 @@
     <cs.logging.version>1.1.1</cs.logging.version>
     <cs.discovery.version>0.5</cs.discovery.version>
     <cs.ejb.version>3.0</cs.ejb.version>
-    <cs.junit.version>4.10</cs.junit.version>
+    <cs.junit.version>4.13.1</cs.junit.version>
     <cs.bcprov.version>1.46</cs.bcprov.version>
     <cs.jsch.version>0.1.42</cs.jsch.version>
     <cs.jpa.version>2.0.0</cs.jpa.version>
